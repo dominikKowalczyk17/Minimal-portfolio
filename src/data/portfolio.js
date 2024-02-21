@@ -11,4 +11,10 @@ export default [
     stack: ["JavaScript", "SCSS", "Webpack"],
     link: "https://jetstory.com/",
   },
+  {
+    title: "Nike Store",
+    imgUrl: "assets/NikeStore.png",
+    stack: ["React", "Tailwind", "Webpack"],
+    link: "https://dominikkowalczyk17.github.io/Nike-Store/",
+  },
 ];
