@@ -1,8 +1,8 @@
 export default [
   {
-    year: "Today",
+    year: "06.2023",
     title: "Junior Frontend Developer",
-    duration: "6 months",
+    duration: "Today",
     details:
       "I'm entrusted with the care of existing websites within the Polsat Media group, ensuring their smooth operation. Additionally, I'm actively involved in crafting new websites for our expanding clientele as well as developing new features for existing websites. In this dynamic role, I leverage technologies such as JavaScript, SCSS, ES6, and Velocity to bring innovative digital experiences to life.",
   },
