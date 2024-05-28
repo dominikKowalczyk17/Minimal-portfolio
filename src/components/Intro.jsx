@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Intro() {
   return (
@@ -9,17 +9,12 @@ function Intro() {
       <p className="text-base md:text-xl mb-3 font-medium">
         Junior Frontend Developer
       </p>
-      <p className="text-sm max-w-xl mb-6 font-bold">
-        Hey there! I'm a passionate self-taught junior frontend developer on a
-        perpetual quest for knowledge. My coding journey began as a solo
-        adventure, and now I'm weaving through the digital landscape, crafting
-        seamless and visually appealing user experiences.
-        <br />I am currently working for Polsat Media Group, developing new
-        websites for clients but also maintaining portals such as PolsatNews,
-        PolsatSport, NesoBus, NesoStacje and much more smaller sites.
+      <p className="text-sm max-w-2xl mb-6 font-bold text-left">
+        Junior Front-end Developer @ Dituel Sp z o.o. | JavaScript, SCSS, ES6,
+        React, React Native
       </p>
     </div>
-  );
+  )
 }
 
-export default Intro;
+export default Intro
