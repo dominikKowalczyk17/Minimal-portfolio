@@ -26,7 +26,13 @@ export default [
   {
     title: "Recipe App",
     imgUrl: "assets/Recipe.png",
-    stack: ["React", "Styled Components", "Framer Motion", "Splide"],
+    stack: [
+      "React",
+      "Styled Components",
+      "Framer Motion",
+      "Splide",
+      "Spoonacular API",
+    ],
     link: "https://dominikkowalczyk17.github.io/Recipe/",
   },
 ];
