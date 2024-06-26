@@ -25,7 +25,7 @@ export default [
   },
   {
     title: "Recipe App",
-    imgUrl: "assets/neso_station.jpg",
+    imgUrl: "assets/Recipe.png",
     stack: ["React", "Styled Components", "Framer Motion", "Splide"],
     link: "https://dominikkowalczyk17.github.io/Recipe/",
   },
